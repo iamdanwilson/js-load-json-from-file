@@ -1,0 +1,1 @@
+A simple project for exploring how to load and process json from a file
