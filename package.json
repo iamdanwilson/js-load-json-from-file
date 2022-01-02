@@ -1,0 +1,12 @@
+{
+  "name": "loadjsonfromfile",
+  "version": "0.1.0",
+  "description": "Simple package to load some json from a file and display it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Wilson",
+  "license": "ISC"
+}
